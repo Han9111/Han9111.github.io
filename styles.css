@@ -1,12 +1,20 @@
 .box {
     text-align: center;
-    border: 100px solid green;
+    border: 4px solid white;
     height: 200px;
    
    
     
 }
 .boxtwo {
-    border: 200px solid green;
+    border: 4px solid rgb(255, 255, 255);
     height: 200px;
+   
+}
+
+
+.boxthree {
+    border: 4px solid green;
+    height: 200px;
+   
 }
