@@ -1,5 +1,7 @@
 .box {
-    text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
     border: 4px solid white;
     height: 200px;
    
@@ -8,13 +10,13 @@
 }
 .boxtwo {
     border: 4px solid rgb(255, 255, 255);
-    height: 200px;
+    height: 900px;
    
 }
 
+.boxthree{
+    text-align: center;
 
-.boxthree {
-    border: 4px solid green;
-    height: 200px;
-   
 }
+
+
